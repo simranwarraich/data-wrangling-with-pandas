@@ -26,6 +26,8 @@ For a comprehensive exploration with detailed explanations, code examples, and v
 
 [From Messy Data to Insights: A Pandas Project for Beginners](https://medium.com/@simrwaraich/from-messy-data-to-insights-a-pandas-project-for-beginners-95f389ee5f76])
 
+I've also made a YouTube tutotial for the same, you can access it here: [Conquer Data Analysis with pandas: From Zero to Hero!](https://www.youtube.com/watch?v=3hQFZKd0iKU&t=130s)
+
 # Feel free to:
 
 - Explore the code and scripts used in the project.
